@@ -21,7 +21,7 @@ My solution consists of virutally mapping the maze in a 2D array. The robot carr
 ## Demonstration
 A video to showcase the code base and how it works. As well as examples of the robot completing all tasks in random mazes.
 
-[Robot maze-solving demonstration video]()
+[![Robot maze-solving demonstration video](https://img.youtube.com/vi/Y6ba7q3huZ4/0.jpg)](https://youtu.be/Y6ba7q3huZ4)
 
 ## Resources Used
 - [Maze-solving algortihms wikipedia](https://en.wikipedia.org/wiki/Maze-solving_algorithm)
